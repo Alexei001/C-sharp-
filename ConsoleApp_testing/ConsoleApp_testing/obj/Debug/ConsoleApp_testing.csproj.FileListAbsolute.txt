@@ -1,0 +1,7 @@
+W:\projects\C-sharp-\ConsoleApp_testing\ConsoleApp_testing\bin\Debug\ConsoleApp_testing.exe.config
+W:\projects\C-sharp-\ConsoleApp_testing\ConsoleApp_testing\bin\Debug\ConsoleApp_testing.exe
+W:\projects\C-sharp-\ConsoleApp_testing\ConsoleApp_testing\bin\Debug\ConsoleApp_testing.pdb
+W:\projects\C-sharp-\ConsoleApp_testing\ConsoleApp_testing\obj\Debug\ConsoleApp_testing.csprojAssemblyReference.cache
+W:\projects\C-sharp-\ConsoleApp_testing\ConsoleApp_testing\obj\Debug\ConsoleApp_testing.csproj.CoreCompileInputs.cache
+W:\projects\C-sharp-\ConsoleApp_testing\ConsoleApp_testing\obj\Debug\ConsoleApp_testing.exe
+W:\projects\C-sharp-\ConsoleApp_testing\ConsoleApp_testing\obj\Debug\ConsoleApp_testing.pdb
