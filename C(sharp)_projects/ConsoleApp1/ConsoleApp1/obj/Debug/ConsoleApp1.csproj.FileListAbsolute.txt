@@ -1,0 +1,14 @@
+W:\C(sharp)_projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+W:\C(sharp)_projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+W:\C(sharp)_projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+W:\C(sharp)_projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+W:\C(sharp)_projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+W:\C(sharp)_projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+W:\C(sharp)_projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+W:\projects\C-sharp-\C(sharp)_projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+W:\projects\C-sharp-\C(sharp)_projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+W:\projects\C-sharp-\C(sharp)_projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+W:\projects\C-sharp-\C(sharp)_projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+W:\projects\C-sharp-\C(sharp)_projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+W:\projects\C-sharp-\C(sharp)_projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+W:\projects\C-sharp-\C(sharp)_projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
