@@ -1,4 +1,13 @@
 {
+<<<<<<< HEAD
   "ExpandedNodes": [],
+=======
+  "ExpandedNodes": [
+    "",
+    "\\C(sharp)_projects",
+    "\\C(sharp)_projects\\ConsoleApp1"
+  ],
+  "SelectedNode": "\\C(sharp)_projects\\ConsoleApp1\\ConsoleApp1.sln",
+>>>>>>> 296846659797e226b90f2dd6b4276fc02ce46592
   "PreviewInSolutionExplorer": false
 }
