@@ -1,0 +1,7 @@
+W:\projects\C-sharp-\ConsoleApp_testing\Home_work(array)\bin\Debug\Home_work(array).exe.config
+W:\projects\C-sharp-\ConsoleApp_testing\Home_work(array)\bin\Debug\Home_work(array).exe
+W:\projects\C-sharp-\ConsoleApp_testing\Home_work(array)\bin\Debug\Home_work(array).pdb
+W:\projects\C-sharp-\ConsoleApp_testing\Home_work(array)\obj\Debug\Home_work(array).csprojAssemblyReference.cache
+W:\projects\C-sharp-\ConsoleApp_testing\Home_work(array)\obj\Debug\Home_work(array).csproj.CoreCompileInputs.cache
+W:\projects\C-sharp-\ConsoleApp_testing\Home_work(array)\obj\Debug\Home_work(array).exe
+W:\projects\C-sharp-\ConsoleApp_testing\Home_work(array)\obj\Debug\Home_work(array).pdb

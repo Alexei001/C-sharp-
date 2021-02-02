@@ -1,0 +1,7 @@
+W:\projects\C-sharp-\ConsoleApp_testing\homeWorks_2_3\bin\Debug\homeWorks_2_3.exe.config
+W:\projects\C-sharp-\ConsoleApp_testing\homeWorks_2_3\bin\Debug\homeWorks_2_3.exe
+W:\projects\C-sharp-\ConsoleApp_testing\homeWorks_2_3\bin\Debug\homeWorks_2_3.pdb
+W:\projects\C-sharp-\ConsoleApp_testing\homeWorks_2_3\obj\Debug\homeWorks_2_3.csprojAssemblyReference.cache
+W:\projects\C-sharp-\ConsoleApp_testing\homeWorks_2_3\obj\Debug\homeWorks_2_3.csproj.CoreCompileInputs.cache
+W:\projects\C-sharp-\ConsoleApp_testing\homeWorks_2_3\obj\Debug\homeWorks_2_3.exe
+W:\projects\C-sharp-\ConsoleApp_testing\homeWorks_2_3\obj\Debug\homeWorks_2_3.pdb
