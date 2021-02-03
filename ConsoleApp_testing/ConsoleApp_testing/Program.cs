@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using System.Linq;
 
 
 namespace ConsoleApp_testing
@@ -8,40 +9,21 @@ namespace ConsoleApp_testing
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("enter the number");
-            int number = int.Parse(Console.ReadLine());
+            /*Console.WriteLine("enter number of elements in array:\t ");
+            int arrCount =int.Parse(Console.ReadLine());
 
-            for (int i = 0; i <= number; i++)
+            int [] myArr =new int [arrCount];
+            for (int i = 0; i <myArr.Length; i++)
             {
-                for (int j = 0; j < i; j++)
-                {
-                    if (i % 2 == 0)
-                    {
-                        Console.Write(" ");
-                    }
-                    else
-                    {
-                        break;
-                    }
-                    
-                }
-                
-                    for (int k = number; k >i; k--)
-                    {
-                    
-                    if (i % 2 == 0)
-                    {
-                        Console.Write("*");
-                    }
-                    else
-                    {
-                        break;
-                    }
+                Console.Write($"enter number for index {i} : \t");
+                myArr[i] = int.Parse(Console.ReadLine());
+            }
+            for (int i = 0; i < myArr.Length; i++)
+            {
+                Console.Write($"myArr=[ {myArr[i]} ] ");
+            }*/
 
-                }  
-                Console.WriteLine();
-            };
-            Console.ReadLine();
+
             
         }
         
